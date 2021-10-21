@@ -14,8 +14,8 @@ The APIs are available at the [following address](https://pokeapi.co).
 1. Use [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous. 
 2. Minimum SDK level 23.
 3. Use Clean Architecture (Repository pattern).
-4. Use the MVI pattern ([Uniflow] (https://github.com/uniflow-kt/uniflow-kt)).
-5. Use [Koin] (https://github.com/InsertKoinIO/koin) or [Hilt](https://dagger.dev/hilt/) for dependency injection.
+4. Use the MVI pattern ([Uniflow](https://github.com/uniflow-kt/uniflow-kt)).
+5. Use [Koin](https://github.com/InsertKoinIO/koin) or [Hilt](https://dagger.dev/hilt/) for dependency injection.
 6. Use [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
 7. Use [Moshi](https://github.com/square/moshi/).
 8. Use [Glide](https://github.com/bumptech/glide), [GlidePalette](https://github.com/florent37/GlidePalette) - loading images.
